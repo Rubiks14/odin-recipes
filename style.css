@@ -26,12 +26,11 @@ div.recipe {
 }
 
 div.recipe p,
-h3,
-li {
+div.recipe h3,
+div.recipe li {
     text-align: left;
 }
 
-div.recipe h3,
-li {
+div.recipe h3 {
     padding-left: 20px;
 }
