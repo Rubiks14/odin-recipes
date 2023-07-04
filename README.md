@@ -11,3 +11,4 @@ Completing this project gives me a chance to practice HTML tags learned during t
 - \<ul> onordered list. Wraps list items to display as an unordered list.
 - \<li> list item. This is put inside a \<ul> or \<ol> tag to mark a list item.
 
+Recipe images are from hardcoregamer.com and image on home page is from ign.com
